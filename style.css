@@ -1,0 +1,203 @@
+body{
+    color:#262626;
+    background: #F2F2F2;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu{
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.menu li{
+    float:left;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.fa{
+    vertical-align: middle; 
+}
+
+.contact-bar{
+    color: #262626;
+    background: #82C0AE;
+    height: 84px;
+    padding: 0;
+}
+
+.personal{
+    margin-top: 26px;
+    float:left;
+}
+
+.social{
+    margin-top: -65px;
+    float: right;
+}
+.personal li{
+    margin-right: 70px;
+}
+
+.personal .fa{
+    font-size: 28px;
+    margin-right: 5px;
+}
+
+.social .fa{
+    font-size: 17px;
+}
+
+.name{
+    margin-left: 930px;
+    width:200px;
+}
+
+.bigguy{
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+.social-icon{
+    display:block;
+    height: 48px;
+    line-height: 60px;
+    width: 48px;
+    color: #8C8C8C;
+    background: #F2F2F2;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.social-icon:focus,
+.social-icon:hover{
+    color: #F2F2F2;
+    background: #0080FF;
+}
+
+.mainguy{
+    margin-top:10px;
+    width: 1170px;
+    margin: auto;
+    font-size: 19px;
+    height: 1000px;
+}
+
+.personal-info{
+    line-height: 10px;
+}
+
+.education{
+  padding-top: 10px;
+  line-height: 15px;
+}
+
+.years{
+    margin-bottom: -5px;
+}
+
+#lh{
+    margin-bottom: -5px;
+}
+
+.work{
+    padding-top: 10px;
+    line-height: 15px;
+}
+
+.skills{
+    margin-right: 30px;
+    padding-top: 10px;
+    float:left;
+}
+
+.myProgress {
+    width: 400px;
+    background-color: #BFBFBF;
+  }
+  
+  #html {
+    width: 65%;
+    height: 10px;
+    background-color: #26A883;
+  }
+
+  #css {
+    width: 50%;
+    height: 10px;
+    background-color: #26A883;
+  }
+
+  #js {
+    width: 10%;
+    height: 10px;
+    background-color: #26A883;
+  }
+
+  #office {
+    width: 80%;
+    height: 10px;
+    background-color: #26A883;
+  }
+
+  h4{
+      margin-bottom: 5px;
+  }
+
+ .language{
+     margin-right: 30px;
+     padding-top:10px;
+     float: left;
+ }
+
+ #svk {
+    width: 100%;
+    height: 10px;
+    background-color: #26A883;
+  }
+
+  #eng {
+    width: 45%;
+    height: 10px;
+    background-color: #26A883;
+  }
+
+  .hobby{
+    margin-right: 30px;
+    padding-top:10px;
+    float: left;
+}
+
+.hobby p{
+    margin: 6px;
+}
+
+.float-right{
+    float:right;
+    width:400px;
+    height: 600px;
+    text-align: justify;
+}
+
+#cntrd{
+    text-align: center;
+}
+
+.foot{
+    width: 1170px;
+    margin:auto;
+}
+
+#endofpage{
+ text-align: center;
+ margin-bottom: 20px;
+}
